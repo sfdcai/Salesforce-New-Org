@@ -5,6 +5,7 @@ This template quickstarts the ability of onboarding a new Salesforce org. Quickl
 - Relevant Metadata Download
 - Deployment Pipeline with GitHub Actions
 - Prettier Config
+![image](https://github.com/user-attachments/assets/35a49aca-e49e-4e55-a041-98842c81987e)
 
 ## Downloading Metadata From Salesforce
 

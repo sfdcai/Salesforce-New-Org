@@ -1,4 +1,4 @@
-# 1Sync New Org Template
+# New Org Template
 
 This template quickstarts the ability of onboarding a new Salesforce org. Quickly get started and enable:
 
